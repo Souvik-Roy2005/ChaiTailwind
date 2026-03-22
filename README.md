@@ -8,9 +8,6 @@ ChaiTailwind is a lightweight client-side styling engine inspired by utility-fir
 
 ---
 
-## 🚀 Live Demo
-👉 [Add your deployed link here]
-
 ## 📦 GitHub Repository
 👉 [Add your GitHub repo link here]
 
