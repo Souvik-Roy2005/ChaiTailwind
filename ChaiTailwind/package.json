@@ -1,0 +1,8 @@
+{
+  "name": "chai-tailwind",
+  "version": "1.0.0",
+  "description": "Utility-first CSS engine using JavaScript",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
